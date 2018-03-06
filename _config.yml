@@ -65,8 +65,8 @@ gitalk:
   clientID: ad9210fbc96c0cb190fb   #生成的clientID
   clientSecret: 94edcaa08505932d47cd7bd9817d48595e44049c  #同上
   repo: wannatwo-weizhou.github.io    #仓库名称
-  owner: wannatwo-weizhou    #github用户名
-  admin: wannatwo-weizhou
+  owner: WannaTwo-WeiZhou    #github用户名
+  admin: WannaTwo-WeiZhou
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
