@@ -4,7 +4,7 @@ title:      JonathanBlow的创作哲学
 subtitle:   《关于游戏的信仰》拾遗
 date:       2018-03-06
 author:     WannaTwo
-header-img: img/20180306/BraidAndWitness.jpg
+header-img: img/20180306/Blow.jpg
 catalog: true
 tags:
     - 独立游戏
