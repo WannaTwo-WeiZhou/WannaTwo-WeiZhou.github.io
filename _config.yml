@@ -99,6 +99,12 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "Unity",
+        href: "https://unity3d.com/cn"
+    },{
+        title: "GitHub",
+        href: "https://github.com/"
+    },{
         title: "Apple",
         href: "https://apple.com"
     },{
