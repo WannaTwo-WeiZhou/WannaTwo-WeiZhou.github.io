@@ -16,6 +16,7 @@ tags:
 
 ![JonathanBlow](https://alioss.g-cores.com/uploads/timeline/a3417a10-3ca5-41fd-ab54-5ce334399878_limit.png)
 
+## 前言
 
 被朋友推荐的一期访谈节目。说实话，在听之前我并不认识Blow，只知道他和我最喜欢的独立游戏人[E胖](https://en.wikipedia.org/wiki/Edmund_McMillen)都参演了独立游戏纪录片[《Indie Game: The Movie》](http://store.steampowered.com/app/207080/Indie_Game_The_Movie/)。但是听过之后，真的对他肃然起敬。他主张的一套理论，在我看来虽然有些**过于高大上**，而**不接地气**。但是他对于游戏创作的思考，对于游戏发展的前瞻，都无疑为我打开了一扇*新世界的大门*。
 
