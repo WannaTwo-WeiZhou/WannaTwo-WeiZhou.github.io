@@ -12,7 +12,7 @@ github_repo: "https://github.com/wannatwo-weizhou/wannatwo-weizhou.github.io.git
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "编程也是门艺术！态度决定高度，细节决定成败。"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/wannatwo.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
